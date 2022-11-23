@@ -15,7 +15,7 @@ Implementieren Sie eine Methode `public static int[] filter(char[] values, char 
 
 # Aufgabe 3: Select
 
-Implementieren Sie eine Methode `public static double[] select(double[] values, int[] indices)`, die ein neues Array mit den Werten aus `values` zurückgibt, welche unter den in `indices` angegebenen Indices stehen. Beispiel: Wenn als values {2, 4, 6, 8, 10} und als indices {0, 3} übergeben werden, soll die Methode {2, 8} zurückgeben.
+Implementieren Sie eine Methode `public static double[] select(double[] values, int[] indices)`, die ein neues Array mit den Werten aus `values` zurückgibt, welche unter den in `indices` angegebenen Indices stehen. Beispiel: Wenn als values {2, 4, 6, 8, 10} und als indices {0, 3} übergeben werden, soll die Methode {2.0, 8.0} zurückgeben.
 
 # Aufgabe 4: Risikofaktor Alter
 
